@@ -6,4 +6,4 @@ This is a project that i carried out in my early stages of data analysis. It ent
 Formulas such as Offset, Xlookup and basic Excel formulas were used to gain insights on the data
 *Analysis was carried out using Pivot tables and form controls was used to make visualisation more dynamic.
 
-## Find the Dashboard [here](
+## Find the Dashboard [here](https://github.com/IfunanyaBee/Sales-Dashboard/blob/main/Sales-Dashboard-practice-project.xlsx)
